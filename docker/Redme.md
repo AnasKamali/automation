@@ -1,7 +1,7 @@
 //tool docker desktop
 //wsl for windows 
 //hypervisor on 
-
+```diff
 docker basic commands
 + docker images
 //Repository Tag Image Id Created Size
@@ -47,6 +47,6 @@ docer run --cpu-shares relative to other container
 
 - dont let your container fetch dependency when they start
 - dont leave imp stuff in unamed stopped container
-
+```
 
 
